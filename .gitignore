@@ -3,3 +3,4 @@ node_modules/
 /coverage/
 /db/*.sqlite3
 /tmp/remote-wsl-loc.txt
+INFO.md
